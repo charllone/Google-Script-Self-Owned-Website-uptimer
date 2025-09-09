@@ -4,8 +4,8 @@ This script pings a website requesting 200 request every time you run it. Create
 ### HOW TO SETUP
 - Go to [Google App Script](https://script.google.com/)
 - Paste the code in the Code.gs
-- Configure the Website that you want to ping
-- Change the Discord Webhook
+- Configure the url = ""
+- Change the Discord Webhook webhook = ""
 - Go to Triggers
 - Add a Trigger with the corresponding function "CheckUptime"
 - Then "Time-driven" and choose the corresponding time base and interval to your preference
